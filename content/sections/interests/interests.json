@@ -1,0 +1,79 @@
+{
+  "interests": [
+    {
+      "label": "React JS",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Javascript",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Gatsby JS",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "TypeScript",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "PHP",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "SASS",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "HTML",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "CSS",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "WordPress",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "PhotoShop",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}

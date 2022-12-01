@@ -1,0 +1,43 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://okeke-dumaga.netlify.app/",
+    "title": "Okeke Dumaga | Front End Developer",
+    "titleTemplate": "%s · Portfolio",
+    "description": "I'm Okeke Dumaga, front end react developer",
+    "author": "Okeke Dumaga",
+    "avatar": "../content/images/profile.jpg",
+    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "social": {
+      "behance": "",
+      "github": "https://github.com/Lonecloud7",
+      "medium": "",
+      "linkedin": "https://www.linkedin.com/in/okeke-dumaga-60809217a/",
+      "mail":"mailto:okekedumaga10@gmail.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "DMG" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Portfolio", "url": "/#features" },
+        { "label": "Contact", "url": "/#github" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/resume.pdf"
+      },
+      "footer": [
+        { "label": "", "url": "/privacy" },
+        { "label": "", "url": "/imprint" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

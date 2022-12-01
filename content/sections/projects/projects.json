@@ -1,0 +1,73 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "DEPLOYED",
+      "title": "More Solar Projects LTD Website",
+      "description": "A static website, built with Gatsby JS, bootstrap and styled with SASS. Using gatsby image plug-in for fast loading high quality images.",
+      "tags": ["Static Site", "Gatsby JS"],
+      "image": {
+        "src": "../../images/moresolar.png",
+        "alt": "Quick Setup",
+        "linkTo": "https://moresolarprojects.com/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Lonecloud7/MoreSolarProjects-Website"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "DEPLOYED",
+      "title": "Treasure Suites Website",
+      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "tags": ["Reservation site", "WordPress"],
+      "image": {
+        "src": "../../images/treasuresuites.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://treasures.ng/"
+      },
+      "links": [
+      ]
+    },
+    {
+      "visible": true,
+      "category": "DEPLOYED",
+      "title": "HD Skin Shop Website",
+      "description": "An E-commerce website created with wordpress, contains all features expected of a well-built E-commerce website.",
+      "tags": ["E-commerce", "WordPress"],
+      "image": {
+        "src": "../../images/hdskin.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://hdskinshop.com/"
+      },
+      "links": [
+      ]
+    },
+    {
+      "visible": true,
+      "category": "PERSONAL PROJECT",
+      "title": "Weather Checker App",
+      "description": "This is a personal project made with Create react app, this app generates weather forecasts using data from APIs.",
+      "tags": ["React JS", "Web Application"],
+      "image": {
+        "src": "../../images/weatherapp.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://dmgweatherapp.netlify.app/#"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Lonecloud7/WeatherApp-deployed"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Github",
+    "url": "https://github.com/Lonecloud7"
+  }
+}
