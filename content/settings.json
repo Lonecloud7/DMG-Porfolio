@@ -1,7 +1,7 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://okeke-dumaga.netlify.app/",
+    "siteUrl": "https://okekedumaga.gatsbyjs.io/",
     "title": "Okeke Dumaga | Front End Developer",
     "titleTemplate": "%s · Portfolio",
     "description": "I'm Okeke Dumaga, front end react developer",
@@ -27,7 +27,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": "/okeke dumaga CV.pdf"
       },
       "footer": [
         { "label": "", "url": "/privacy" },

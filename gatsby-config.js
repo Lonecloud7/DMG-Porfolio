@@ -3,7 +3,7 @@ module.exports = {
     {
       resolve: "gatsby-theme-portfolio-minimal",
       options: {
-        siteUrl: "https://okeke-dumaga.netlify.app/", // Used for sitemap generation
+        siteUrl: "https://okekedumaga.gatsbyjs.io/", // Used for sitemap generation
         manifestSettings: {
           favicon: "./content/images/favicon2.png", // Path is relative to the root
           siteName: "Okeke Dumaga | Front End Developer", // Used in manifest.json
