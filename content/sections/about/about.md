@@ -3,7 +3,7 @@ imageSrc: "../../images/profile.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-I am passionate about building excellent software that improves the lives of those around me. Mostly specialize in React JS and have a keen eye for design. Currently i'm seeking out more projects to be apart of to further my skills.
+I am passionate about building excellent software that improves the lives of those around me. Mostly specialize in React JS and have a keen eye for design. Currently, I am seeking more projects to collaborate on to further my skills.
 
 I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time.
 
