@@ -10,13 +10,7 @@
         "src": "../../images/moresolar.png",
         "alt": "Quick Setup",
         "linkTo": "https://moresolarprojects.com/"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/Lonecloud7/MoreSolarProjects-Website"
-        }
-      ]
+      }
     },
     {
       "visible": true,
