@@ -2,6 +2,228 @@
   "projects": [
     {
       "visible": true,
+      "category": "UN-DEPLOYED",
+      "title": "Poetica Game",
+      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "tags": ["Web Game", "Next JS"],
+      "image": {
+        "src": "../../images/poetica.png",
+        "alt": "poetica Image",
+        "linkTo": "https://poem-game-pwa.vercel.app/"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "DEPLOYED",
+      "title": "TBC Dev Website",
+      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "tags": ["Company Website", "Next JS"],
+      "image": {
+        "src": "../../images/tbcdev.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://www.tbcdev.io/"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "DEPLOYED",
+      "title": "Branding Champs LLC Website",
+      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "tags": ["Branding Agency", "WordPress"],
+      "image": {
+        "src": "../../images/brandingchamps.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://thebrandingchamps.com/"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "DEPLOYED",
+      "title": "2Deex LLC Website",
+      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "tags": ["Animation Agency", "WordPress"],
+      "image": {
+        "src": "../../images/2deex.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://www.2deex.com/"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "DEPLOYED",
+      "title": "Treasure Suites Website",
+      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "tags": ["Reservation site", "WordPress"],
+      "image": {
+        "src": "../../images/treasuresuites.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://treasures.ng/"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "DEPLOYED",
+      "title": "Top Shelf Painting Website",
+      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "tags": ["Painting Business", "WordPress"],
+      "image": {
+        "src": "../../images/topshelfpainting.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://topshelfpainting.com.au/"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "DEPLOYED",
+      "title": "Gentle Hand Healthcare Services LLC Website",
+      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "tags": ["Healthcare Services", "WordPress"],
+      "image": {
+        "src": "../../images/gentlehand.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://agentlehandhealthcare.com/"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "DEPLOYED",
+      "title": "Edeex Website",
+      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "tags": ["Photography & Editing", "WordPress"],
+      "image": {
+        "src": "../../images/edeetx.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://edeetx.com/"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "DEPLOYED",
+      "title": "Valley Indoor PicketBall Website",
+      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "tags": ["PicketBall Reservation", "WordPress"],
+      "image": {
+        "src": "../../images/valleyindoor.png",
+        "alt": "Extendable Layout",
+        "linkTo": "http://valleyindoorpickleball.com/"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "DEPLOYED",
+      "title": "Carolina Tru3 LLC Moving Website",
+      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "tags": ["Moving Business", "WordPress"],
+      "image": {
+        "src": "../../images/movingservice.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://carolinatru3moving.com/"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "DEPLOYED",
+      "title": "Carolina Tru3 LLC Home Delivery Website",
+      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "tags": ["Home Delivery Business", "WordPress"],
+      "image": {
+        "src": "../../images/homedelivery.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://carolinatru3homedelivery.com/"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "DEPLOYED",
+      "title": "Care Companion at Home LLC Website",
+      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "tags": ["Elder Care Agency", "WordPress"],
+      "image": {
+        "src": "../../images/carecompanion.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://carecompanionathome.com/"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "DEPLOYED",
+      "title": "231 Softwash Website",
+      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "tags": ["Residential Cleaning", "WordPress"],
+      "image": {
+        "src": "../../images/231softwash.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://231softwash.com/"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "DEPLOYED",
+      "title": "RJL Landscaping Website",
+      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "tags": ["Landscape Business", "WordPress"],
+      "image": {
+        "src": "../../images/rjllandscape.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://rjllandscaping.com/"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "DEPLOYED",
+      "title": "Bold Bridge Creative Website",
+      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "tags": ["Branding Agency", "WordPress"],
+      "image": {
+        "src": "../../images/boldbridge.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://boldbridgecreative.com/"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "DEPLOYED",
+      "title": "CLH Studios Website",
+      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "tags": ["Worship Streaming", "WordPress"],
+      "image": {
+        "src": "../../images/clhstudios.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://clhstudios.org/"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "DEPLOYED",
+      "title": "North Starr Dispatch LLC Website",
+      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "tags": ["Delivery Dispatch", "WordPress"],
+      "image": {
+        "src": "../../images/northstarr.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://northstarrdispatchllc.com/"
+      },
+      "links": []
+    },
+
+    {
+      "visible": true,
       "category": "DEPLOYED",
       "title": "More Solar Projects LTD Website",
       "description": "A static website, built with Gatsby JS, bootstrap and styled with SASS. Using gatsby image plug-in for fast loading high quality images.",
@@ -15,20 +237,6 @@
     {
       "visible": true,
       "category": "DEPLOYED",
-      "title": "Treasure Suites Website",
-      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
-      "tags": ["Reservation site", "WordPress"],
-      "image": {
-        "src": "../../images/treasuresuites.png",
-        "alt": "Extendable Layout",
-        "linkTo": "https://treasures.ng/"
-      },
-      "links": [
-      ]
-    },
-    {
-      "visible": true,
-      "category": "DEPLOYED",
       "title": "HD Skin Shop Website",
       "description": "An E-commerce website created with wordpress, contains all features expected of a well-built E-commerce website.",
       "tags": ["E-commerce", "WordPress"],
@@ -37,8 +245,7 @@
         "alt": "Extendable Layout",
         "linkTo": "https://hdskinshop.com/"
       },
-      "links": [
-      ]
+      "links": []
     },
     {
       "visible": true,
