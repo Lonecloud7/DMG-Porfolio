@@ -25,7 +25,7 @@
         { "label": "Contact", "url": "/#github" }
       ],
       "ctaButton": {
-        "openNewTab": false,
+        "openNewTab": true,
         "label": "Resume",
         "url": "/okeke dumaga CV.pdf"
       },
