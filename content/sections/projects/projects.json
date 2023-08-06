@@ -4,7 +4,7 @@
       "visible": true,
       "category": "UN-DEPLOYED",
       "title": "Poetica Game",
-      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "description": "Welcome to Poetica, an enchanting web game crafted with Next.js. Immerse yourself in a mesmerizing world of poetry and adventure, where your choices shape the narrative and unlock a magical journey like no other.",
       "tags": ["Web Game", "Next JS"],
       "image": {
         "src": "../../images/poetica.png",
@@ -17,7 +17,7 @@
       "visible": true,
       "category": "DEPLOYED",
       "title": "TBC Dev Website",
-      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "description": "Discover TBC Dev, your go-to destination for top-notch software solutions. As a leading software development agency, we blend innovation and expertise to create tailor-made solutions that drive your business forward.",
       "tags": ["Company Website", "Next JS"],
       "image": {
         "src": "../../images/tbcdev.png",
@@ -30,7 +30,7 @@
       "visible": true,
       "category": "DEPLOYED",
       "title": "Branding Champs LLC Website",
-      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "description": "Step into the world of Branding Champs LLC, a dynamic branding agency that breathes life into brands. With our unmatched creativity and strategic approach, we empower businesses to forge unique identities that resonate deeply with their audiences.",
       "tags": ["Branding Agency", "WordPress"],
       "image": {
         "src": "../../images/brandingchamps.png",
@@ -43,7 +43,7 @@
       "visible": true,
       "category": "DEPLOYED",
       "title": "2Deex LLC Website",
-      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "description": "This is 2Deex LLC, your gateway to captivating animations. As a leading animation agency, we harness the power of creativity and cutting-edge technology to bring your ideas to life with stunning visuals and immersive storytelling.",
       "tags": ["Animation Agency", "WordPress"],
       "image": {
         "src": "../../images/2deex.png",
@@ -69,7 +69,7 @@
       "visible": true,
       "category": "DEPLOYED",
       "title": "Top Shelf Painting Website",
-      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "description": "Top Shelf Painting, your premier choice for exceptional residential and commercial painting services. With a keen eye for detail and a commitment to excellence, we transform spaces into works of art, adding beauty and value to your property.",
       "tags": ["Painting Business", "WordPress"],
       "image": {
         "src": "../../images/topshelfpainting.png",
@@ -82,7 +82,7 @@
       "visible": true,
       "category": "DEPLOYED",
       "title": "Gentle Hand Healthcare Services LLC Website",
-      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "description": "A Gentle Hand Healthcare Services LLC is a healthcare service company owned and operated by experienced healthcare professionals who have dedicated their careers to serving seniors in Houston and South Texas.",
       "tags": ["Healthcare Services", "WordPress"],
       "image": {
         "src": "../../images/gentlehand.png",
@@ -95,7 +95,7 @@
       "visible": true,
       "category": "DEPLOYED",
       "title": "Edeex Website",
-      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "description": "Welcome to Edeetx! We offer a variety of services to enhance and transform your photos. Our team of professional editors are skilled in retouching, color correction, and manipulation to bring out the best in your images.",
       "tags": ["Photography & Editing", "WordPress"],
       "image": {
         "src": "../../images/edeetx.png",
@@ -108,7 +108,7 @@
       "visible": true,
       "category": "DEPLOYED",
       "title": "Valley Indoor PicketBall Website",
-      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "description": "Pickleball is the fastest growing sport in America, and Mesa is one of the cities leading the Pickleball charge",
       "tags": ["PicketBall Reservation", "WordPress"],
       "image": {
         "src": "../../images/valleyindoor.png",
@@ -121,7 +121,7 @@
       "visible": true,
       "category": "DEPLOYED",
       "title": "Carolina Tru3 LLC Moving Website",
-      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "description": "Carolina Tru3 LLC, the moving company that truly cares. With a genuine commitment to personalized service, we go the extra mile to make your relocation experience memorable and hassle-free.",
       "tags": ["Moving Business", "WordPress"],
       "image": {
         "src": "../../images/movingservice.png",
@@ -134,7 +134,7 @@
       "visible": true,
       "category": "DEPLOYED",
       "title": "Carolina Tru3 LLC Home Delivery Website",
-      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "description": "Carolina Tru3 LLC, your ultimate home delivery solution with a touch of innovation. Experience the ease of ordering from the comfort of your home and let our integrated freight calculator handle the logistics.",
       "tags": ["Home Delivery Business", "WordPress"],
       "image": {
         "src": "../../images/homedelivery.png",
@@ -147,7 +147,7 @@
       "visible": true,
       "category": "DEPLOYED",
       "title": "Care Companion at Home LLC Website",
-      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "description": "Care Companion At Home, LLC is an agency born on the need to aid our community in this time of growing healthcare concerns.",
       "tags": ["Elder Care Agency", "WordPress"],
       "image": {
         "src": "../../images/carecompanion.png",
@@ -160,7 +160,7 @@
       "visible": true,
       "category": "DEPLOYED",
       "title": "231 Softwash Website",
-      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "description": "At 231 Softwash, we take pride in providing the highest level of professional and high-quality cleansing services to residential and commercial properties in the 231 area.",
       "tags": ["Residential Cleaning", "WordPress"],
       "image": {
         "src": "../../images/231softwash.png",
@@ -173,7 +173,7 @@
       "visible": true,
       "category": "DEPLOYED",
       "title": "RJL Landscaping Website",
-      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "description": "RJL Landscaping Services, we have been transforming landscapes and creating stunning outdoor environments for our valued clients for many years.",
       "tags": ["Landscape Business", "WordPress"],
       "image": {
         "src": "../../images/rjllandscape.png",
@@ -186,7 +186,7 @@
       "visible": true,
       "category": "DEPLOYED",
       "title": "Bold Bridge Creative Website",
-      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "description": "As an experienced creative strategy, design and communications company. We combine creativity, craft and technology into ideas and experiences that improve brands.",
       "tags": ["Branding Agency", "WordPress"],
       "image": {
         "src": "../../images/boldbridge.png",
@@ -199,7 +199,7 @@
       "visible": true,
       "category": "DEPLOYED",
       "title": "CLH Studios Website",
-      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "description": "A wordpress website made with several plug-ins, made specificaly for streaming sermons",
       "tags": ["Worship Streaming", "WordPress"],
       "image": {
         "src": "../../images/clhstudios.png",
@@ -212,7 +212,7 @@
       "visible": true,
       "category": "DEPLOYED",
       "title": "North Starr Dispatch LLC Website",
-      "description": "A wordpress website made with several plug-ins, site contains booking features and integrated online payment.",
+      "description": " Trusted Logistics Partner. With unwavering commitment, we streamline your transportation needs, providing efficient dispatch services that propel your business to new heights. ",
       "tags": ["Delivery Dispatch", "WordPress"],
       "image": {
         "src": "../../images/northstarr.png",
