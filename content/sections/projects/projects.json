@@ -2,7 +2,7 @@
   "projects": [
     {
       "visible": true,
-      "category": "UN-DEPLOYED",
+      "category": "DEPLOYED",
       "title": "Poetica Game",
       "description": "Welcome to Poetica, an enchanting web game crafted with Next.js. Immerse yourself in a mesmerizing world of poetry and adventure, where your choices shape the narrative and unlock a magical journey like no other.",
       "tags": ["Web Game", "Next JS"],
