@@ -1,7 +1,7 @@
 {
   "interests": [
     {
-      "label": "React JS",
+      "label": "React.JS",
       "image": {
         "src": "",
         "alt": ""
@@ -15,28 +15,21 @@
       }
     },
     {
-      "label": "Express JS",
+      "label": "Express.JS",
       "image": {
         "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Node JS",
+      "label": "Node.JS",
       "image": {
         "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Gatsby JS",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "TypeScript",
+      "label": "Next.JS",
       "image": {
         "src": "",
         "alt": ""
@@ -44,6 +37,41 @@
     },
     {
       "label": "PHP",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Python",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Java",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Mysql",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Gatsby.JS",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "TypeScript",
       "image": {
         "src": "",
         "alt": ""
