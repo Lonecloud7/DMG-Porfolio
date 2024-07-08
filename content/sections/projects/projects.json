@@ -39,19 +39,7 @@
       },
       "links": []
     },
-    {
-      "visible": true,
-      "category": "DEPLOYED",
-      "title": "2Deex LLC Website",
-      "description": "This is 2Deex LLC, your gateway to captivating animations. As a leading animation agency, we harness the power of creativity and cutting-edge technology to bring your ideas to life with stunning visuals and immersive storytelling.",
-      "tags": ["Animation Agency", "WordPress"],
-      "image": {
-        "src": "../../images/2deex.png",
-        "alt": "Extendable Layout",
-        "linkTo": "https://www.2deex.com/"
-      },
-      "links": []
-    },
+
     {
       "visible": true,
       "category": "DEPLOYED",
@@ -65,19 +53,7 @@
       },
       "links": []
     },
-    {
-      "visible": true,
-      "category": "DEPLOYED",
-      "title": "Top Shelf Painting Website",
-      "description": "Top Shelf Painting, your premier choice for exceptional residential and commercial painting services. With a keen eye for detail and a commitment to excellence, we transform spaces into works of art, adding beauty and value to your property.",
-      "tags": ["Painting Business", "WordPress"],
-      "image": {
-        "src": "../../images/topshelfpainting.png",
-        "alt": "Extendable Layout",
-        "linkTo": "https://topshelfpainting.com.au/"
-      },
-      "links": []
-    },
+
     {
       "visible": true,
       "category": "DEPLOYED",
@@ -94,6 +70,19 @@
     {
       "visible": true,
       "category": "DEPLOYED",
+      "title": "North Starr Dispatch LLC Website",
+      "description": " Trusted Logistics Partner. With unwavering commitment, we streamline your transportation needs, providing efficient dispatch services that propel your business to new heights. ",
+      "tags": ["Delivery Dispatch", "WordPress"],
+      "image": {
+        "src": "../../images/northstarr.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://northstarrdispatchllc.com/"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "DEPLOYED",
       "title": "Edeex Website",
       "description": "Welcome to Edeetx! We offer a variety of services to enhance and transform your photos. Our team of professional editors are skilled in retouching, color correction, and manipulation to bring out the best in your images.",
       "tags": ["Photography & Editing", "WordPress"],
@@ -104,19 +93,7 @@
       },
       "links": []
     },
-    {
-      "visible": true,
-      "category": "DEPLOYED",
-      "title": "Valley Indoor PicketBall Website",
-      "description": "Pickleball is the fastest growing sport in America, and Mesa is one of the cities leading the Pickleball charge",
-      "tags": ["PicketBall Reservation", "WordPress"],
-      "image": {
-        "src": "../../images/valleyindoor.png",
-        "alt": "Extendable Layout",
-        "linkTo": "http://valleyindoorpickleball.com/"
-      },
-      "links": []
-    },
+
     {
       "visible": true,
       "category": "DEPLOYED",
@@ -208,16 +185,30 @@
       },
       "links": []
     },
+
     {
       "visible": true,
       "category": "DEPLOYED",
-      "title": "North Starr Dispatch LLC Website",
-      "description": " Trusted Logistics Partner. With unwavering commitment, we streamline your transportation needs, providing efficient dispatch services that propel your business to new heights. ",
-      "tags": ["Delivery Dispatch", "WordPress"],
+      "title": "Valley Indoor PicketBall Website",
+      "description": "Pickleball is the fastest growing sport in America, and Mesa is one of the cities leading the Pickleball charge",
+      "tags": ["PicketBall Reservation", "WordPress"],
       "image": {
-        "src": "../../images/northstarr.png",
+        "src": "../../images/valleyindoor.png",
         "alt": "Extendable Layout",
-        "linkTo": "https://northstarrdispatchllc.com/"
+        "linkTo": "http://valleyindoorpickleball.com/"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "DEPLOYED",
+      "title": "Top Shelf Painting Website",
+      "description": "Top Shelf Painting, your premier choice for exceptional residential and commercial painting services. With a keen eye for detail and a commitment to excellence, we transform spaces into works of art, adding beauty and value to your property.",
+      "tags": ["Painting Business", "WordPress"],
+      "image": {
+        "src": "../../images/topshelfpainting.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://topshelfpainting.com.au/"
       },
       "links": []
     },
@@ -233,6 +224,19 @@
         "alt": "Quick Setup",
         "linkTo": "https://moresolarprojects.com/"
       }
+    },
+    {
+      "visible": true,
+      "category": "DEPLOYED",
+      "title": "2Deex LLC Website",
+      "description": "This is 2Deex LLC, your gateway to captivating animations. As a leading animation agency, we harness the power of creativity and cutting-edge technology to bring your ideas to life with stunning visuals and immersive storytelling.",
+      "tags": ["Animation Agency", "WordPress"],
+      "image": {
+        "src": "../../images/2deex.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://www.2deex.com/"
+      },
+      "links": []
     },
     {
       "visible": true,
