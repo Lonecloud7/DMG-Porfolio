@@ -8,6 +8,20 @@
       }
     },
     {
+      "label": "Next.JS",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": ".NET",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
       "label": "Javascript",
       "image": {
         "src": "",
@@ -28,13 +42,7 @@
         "alt": ""
       }
     },
-    {
-      "label": "Next.JS",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
+   
     {
       "label": "PHP",
       "image": {

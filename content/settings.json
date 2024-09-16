@@ -2,9 +2,9 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://okekedumaga.gatsbyjs.io/",
-    "title": "Okeke Dumaga | Website Developer",
+    "title": "Okeke Dumaga | Software Developer",
     "titleTemplate": "%s · Portfolio",
-    "description": "I'm Okeke Dumaga, Website Developer",
+    "description": "I'm Okeke Dumaga, Software Developer",
     "author": "Okeke Dumaga",
     "avatar": "../content/images/profile.jpeg",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
@@ -12,7 +12,7 @@
       "behance": "",
       "github": "https://github.com/Lonecloud7",
       "medium": "",
-      "linkedin": "https://www.linkedin.com/in/dumaga-okeke-60809217a/",
+      "linkedin": "https://www.linkedin.com/in/dumaga-okeke",
       "mail":"mailto:okekedumaga10@gmail.com"
     }
   },

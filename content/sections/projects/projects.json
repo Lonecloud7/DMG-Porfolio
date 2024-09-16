@@ -3,6 +3,19 @@
     {
       "visible": true,
       "category": "DEPLOYED",
+      "title": "Double Check",
+      "description": "The objective of the double check web application is to be a quick easy to use website tool for inexperienced and experienced users to gain a quick rundown of possible vulnerabilities on a website and also information made available on website that could be potentially sensitive.",
+      "tags": ["Vulnerability Scanner", "Next JS"],
+      "image": {
+        "src": "../../images/doublecheck.png",
+        "alt": "poetica Image",
+        "linkTo": "https://doublecheck10.netlify.app/"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "DEPLOYED",
       "title": "Poetica Game",
       "description": "Welcome to Poetica, an enchanting web game crafted with Next.js. Immerse yourself in a mesmerizing world of poetry and adventure, where your choices shape the narrative and unlock a magical journey like no other.",
       "tags": ["Web Game", "Next JS"],
@@ -64,6 +77,19 @@
         "src": "../../images/gentlehand.png",
         "alt": "Extendable Layout",
         "linkTo": "https://agentlehandhealthcare.com/"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "DEPLOYED",
+      "title": "HD Skin Shop Website",
+      "description": "An E-commerce website created with wordpress, contains all features expected of a well-built E-commerce website.",
+      "tags": ["E-commerce", "WordPress"],
+      "image": {
+        "src": "../../images/hdskin.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://hdskinshop.com/"
       },
       "links": []
     },
@@ -238,19 +264,7 @@
       },
       "links": []
     },
-    {
-      "visible": true,
-      "category": "DEPLOYED",
-      "title": "HD Skin Shop Website",
-      "description": "An E-commerce website created with wordpress, contains all features expected of a well-built E-commerce website.",
-      "tags": ["E-commerce", "WordPress"],
-      "image": {
-        "src": "../../images/hdskin.png",
-        "alt": "Extendable Layout",
-        "linkTo": "https://hdskinshop.com/"
-      },
-      "links": []
-    },
+
     {
       "visible": true,
       "category": "PERSONAL PROJECT",
